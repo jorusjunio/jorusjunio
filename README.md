@@ -19,4 +19,6 @@ I am currently a 2nd Year IT student interested in software development and mach
 - SQL  
 - HTML & CSS  
 - Problem Solving  
-- UI/UX (Figma Basics)  
+- UI/UX (Figma Basics)
+- JavaScript
+- React
