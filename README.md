@@ -1,11 +1,7 @@
 <h1 align="center">Hi, I'm Jorus Junio (Josh) 👋🏻</h1>
 
-<p align="center">
-  <img src="YOUR_PHOTO_URL_HERE" width="150" style="border-radius: 50%"/>
-</p>
-
 ## 👨‍💻 About Me
-I am Jorus Junio, with a flair for coding and database management skills. I thrive on tackling complex problems and crafting elegant solutions. My journey in tech has started when I took the BS Information Technology program.
+I am currently a 2nd Year IT student interested in software development and machine learning. Still learning, keeping it logical, and doing what matters.
 
 ## 🎓 Education
 - **Bachelor of Science in Information Technology**
