@@ -16,7 +16,7 @@ I am currently a 2nd Year IT student interested in software development and mach
 - [Oracle Cloud Infrastructure 2025 Certified AI Foundations Associate](https://catalog-education.oracle.com/pls/certview/sharebadge?id=2A7EA3F07DD01AAAC3CBCD407E761D047A3C2C9D20D95E19AE28083646BEF913)
 
 ## 🛠️ Skillsets
-**Programming:** Java, JavaScript  
+**Programming:** Java, JavaScript, Python  
 **Databases:** IBM DB2  
 **Cloud Tools:** Lucidchart, Jaspersoft Studio, Eclipse, HTML  
 
