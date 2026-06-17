@@ -15,10 +15,11 @@ I am currently a IT student interested in full stack software development with A
 - [Oracle Data Platform 2025 Certified Foundations Associate](https://catalog-education.oracle.com/pls/certview/sharebadge?id=EB06AAC8172FE977394222167D8C9CD5E80BCBAC739F7F20E837DF076FE96AC9)
 - [Oracle Cloud Infrastructure 2025 Certified AI Foundations Associate](https://catalog-education.oracle.com/pls/certview/sharebadge?id=2A7EA3F07DD01AAAC3CBCD407E761D047A3C2C9D20D95E19AE28083646BEF913)
 
-## 🛠️ Skillsets
-**Programming:** Java, JavaScript, Python  
-**Databases:** IBM DB2  
-**Cloud Tools:** Lucidchart, Jaspersoft Studio, Eclipse, HTML  
+### 🛠️ Skillsets
+* **Programming Languages:** JavaScript (ES6+), TypeScript, Python, Java, HTML5, CSS3
+* **Frontend Frameworks:** React.js, Next.js, Tailwind CSS
+* **Backend & Databases:** Supabase, PostgreSQL, RESTful APIs, IBM DB2
+* **Tools & Workflow:** Git/GitHub, VS Code, Cursor 
 
 ## 📬 Contact Me
 - 💼 LinkedIn: [Jorus Junio](https://www.linkedin.com/in/jorus-junio-079a89409/)
