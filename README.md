@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Jorus Junio (Josh) 👋🏻</h1>
 
 ## 👨‍💻 About Me
-I am currently a 2nd Year IT student interested in software development and machine learning. Still learning, keeping it logical, and doing what matters.
+I am currently a IT student interested in full stack software development with AI engineering workflows. Still learning, keeping it logical, and doing what matters.
 
 ## 🎓 Education
 - **Bachelor of Science in Information Technology**
