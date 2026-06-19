@@ -16,10 +16,10 @@ I am currently a IT student interested in full stack software development with A
 - [Oracle Cloud Infrastructure 2025 Certified AI Foundations Associate](https://catalog-education.oracle.com/pls/certview/sharebadge?id=2A7EA3F07DD01AAAC3CBCD407E761D047A3C2C9D20D95E19AE28083646BEF913)
 
 ### 🛠️ Skillsets
-* **Programming Languages:** JavaScript (ES6+), TypeScript, Python, Java, HTML5, CSS3
+* **Programming Languages:** JavaScript (ES6+), TypeScript, Python, Java
 * **Frontend Frameworks:** React.js, Next.js, Tailwind CSS
 * **Backend & Databases:** Supabase, PostgreSQL, RESTful APIs, IBM DB2
-* **Tools & Workflow:** Git/GitHub, VS Code, Cursor 
+* **Tools & Workflow:** Git/GitHub, VS Code, Cursor, OpenAI 
 
 ## 📬 Contact Me
 - 💼 LinkedIn: [Jorus Junio](https://www.linkedin.com/in/jorus-junio-079a89409/)
