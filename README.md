@@ -18,7 +18,7 @@ I am currently a IT student interested in full stack software development with A
 ### 🛠️ Skillsets
 * **Programming Languages:** JavaScript (ES6+), TypeScript, Python, Java
 * **Frontend Frameworks:** React.js, Next.js, Tailwind CSS
-* **Backend & Databases:** Supabase, PostgreSQL, RESTful APIs, IBM DB2
+* **Backend & Databases:** Supabase, Neon PostgreSQL, RESTful APIs, IBM DB2
 * **Tools & Workflow:** Git/GitHub, VS Code, Cursor, OpenAI 
 
 ## 📬 Contact Me
